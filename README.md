@@ -1,2 +1,2 @@
 # hello-world
-Just learning about GitHub
+Just learning about GitHub and Android development
